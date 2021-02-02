@@ -26,7 +26,7 @@ import java.net.InterfaceAddress;
  */
 public class HttpServer {
 
-    private static int port = 8888;
+    private static int port = 80;
 
     public static void main(String[] args) throws Exception {
 
